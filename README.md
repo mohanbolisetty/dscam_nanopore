@@ -1,2 +1,2 @@
-# dscam_nanopore
+# dscam nanopore
 Dscam isoform analysis on Nanopore Data
