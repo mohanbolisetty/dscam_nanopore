@@ -6,3 +6,6 @@ http://nbviewer.ipython.org/github/mohanbolisetty/dscam_nanopore/blob/master/Dat
 
 NBViewer - Isoform based alignments and analysis:
 http://nbviewer.ipython.org/github/mohanbolisetty/dscam_nanopore/blob/master/Data/spikeins_full_length.ipynb
+
+NBViewer - Exon based alignments and analysis Spike Ins:
+http://nbviewer.ipython.org/github/mohanbolisetty/dscam_nanopore/blob/master/Data/spikeins_analysis_021215.ipynb
